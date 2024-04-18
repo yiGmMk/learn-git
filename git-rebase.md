@@ -89,4 +89,4 @@ git merge --no-ff -m "Merge branch 'feature-a'" feature-a
 ## 参考
 
 * 在开发过程中使用 git rebase 还是 git merge，优缺点分别是什么？ - 一个小号的回答 - 知乎
-<https://www.zhihu.com/question/36509119/answer/1990894567>
+- [知乎,rebase vs merge](https://www.zhihu.com/question/36509119/answer/1990894567)
